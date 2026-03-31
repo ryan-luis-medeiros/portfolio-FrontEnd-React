@@ -153,11 +153,11 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 👤 Autor
 
-**Seu Nome**
+**Ryan Luis Medeiros de Araujo Macedo Mariano & Hillary Monteiro**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@ryan-luis-medeiros](https://github.com/seu-usuario)
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+- Email: Ryan.lmamm0@Gmail.com
 
 ## 📞 Suporte
 
